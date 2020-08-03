@@ -8,7 +8,7 @@ export const data = {
   biking: "cycling.jpg",
   dudu: "duduDrive.jpg",
   ais: "ais.jpg",
-  respdf:"latestResumeMichaelMilic.pdf",
+  respdf:"resume_latest_mike_milic.pdf",
   website: "http://www.michael-milic.ca",
   github: "http://github.com/mikemilic98",
   linkedin: "https://www.linkedin.com/in/sylvia-pap", 
